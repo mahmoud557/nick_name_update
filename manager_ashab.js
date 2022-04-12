@@ -1,1 +1,162 @@
-var _0x2f55dc=_0x1f24;(function(_0xd94a77,_0x4799b4){var _0x41d91c=_0x1f24,_0x53db66=_0xd94a77();while(!![]){try{var _0x2a588b=parseInt(_0x41d91c(0x195))/0x1*(parseInt(_0x41d91c(0x173))/0x2)+-parseInt(_0x41d91c(0x19e))/0x3*(parseInt(_0x41d91c(0x176))/0x4)+-parseInt(_0x41d91c(0x19c))/0x5+parseInt(_0x41d91c(0x170))/0x6+-parseInt(_0x41d91c(0x19a))/0x7+parseInt(_0x41d91c(0x17e))/0x8+parseInt(_0x41d91c(0x18f))/0x9;if(_0x2a588b===_0x4799b4)break;else _0x53db66['push'](_0x53db66['shift']());}catch(_0x453698){_0x53db66['push'](_0x53db66['shift']());}}}(_0x2cd5,0x48731));var EventEmitter=require('events'),fetch=require(_0x2f55dc(0x1a0)),CryptoJS=require(_0x2f55dc(0x188)),stringText={'parse':function(_0xb4009f){var _0x25d6a4=_0x2f55dc,_0x546287=JSON[_0x25d6a4(0x17d)](_0xb4009f),_0x347f34=CryptoJS[_0x25d6a4(0x194)][_0x25d6a4(0x189)][_0x25d6a4(0x18e)]({'ciphertext':CryptoJS['enc'][_0x25d6a4(0x18c)][_0x25d6a4(0x17d)](_0x546287['ct'])});return _0x546287['iv']&&(_0x347f34['iv']=CryptoJS['enc'][_0x25d6a4(0x182)]['parse'](_0x546287['iv'])),_0x546287['s']&&(_0x347f34[_0x25d6a4(0x171)]=CryptoJS['enc'][_0x25d6a4(0x182)][_0x25d6a4(0x17d)](_0x546287['s'])),_0x347f34;},'stringify':function(_0x10e658){var _0xc0a2fd=_0x2f55dc,_0x2f670f={'ct':_0x10e658[_0xc0a2fd(0x199)][_0xc0a2fd(0x193)](CryptoJS[_0xc0a2fd(0x18d)]['Base64'])};if(_0x10e658['iv'])_0x2f670f['iv']=_0x10e658['iv'][_0xc0a2fd(0x193)]();if(_0x10e658[_0xc0a2fd(0x171)])_0x2f670f['s']=_0x10e658[_0xc0a2fd(0x171)][_0xc0a2fd(0x193)]();return JSON[_0xc0a2fd(0x179)](_0x2f670f);}};function _0x1f24(_0x924a33,_0x171163){var _0x2cd571=_0x2cd5();return _0x1f24=function(_0x1f24f7,_0x1c77bc){_0x1f24f7=_0x1f24f7-0x16f;var _0x429474=_0x2cd571[_0x1f24f7];return _0x429474;},_0x1f24(_0x924a33,_0x171163);}class MyEmitter extends EventEmitter{}function _0x2cd5(){var _0x929f75=['create','1925829ZeNqSV','get_nick_name_sycle_free_fire','AES','en-US,en;q=0.9,ar;q=0.8','toString','lib','160483pncBCV','\x22Windows\x22','POST','descK','ciphertext','2003204VbPPSJ','\x22\x20Not\x20A;Brand\x22;v=\x2299\x22,\x20\x22Chromium\x22;v=\x2299\x22,\x20\x22Google\x20Chrome\x22;v=\x2299\x22','1780970zuoAAI','application/json','1695vxdpIA','language=arabic','node-fetch','XMLHttpRequest','same-origin','fetcher_url','130338uzVVrj','salt','https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=freefire&playerID=','2ORQqJK','start_ceek_if_awake_interval','https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=','96dcvXLR','*/*','encrypt','stringify','application/x-www-form-urlencoded;\x20charset=UTF-8','es\x20in\x20providing\x20gamers\x20with\x20the\x20','empty','parse','4451936hAkzBq','exports','text','invalid','Hex','log','/fetch','cors','strict-origin-when-cross-origin','iwill\x20cheek','crypto-js','CipherParams','https://as7abcard.com/app/','description','Base64','enc'];_0x2cd5=function(){return _0x929f75;};return _0x2cd5();}class Manager_Ashab{constructor(){var _0x2afed6=_0x2f55dc;this['events']=new MyEmitter(),this[_0x2afed6(0x16f)]='https://pacific-hollow-antelope.glitch.me/',this[_0x2afed6(0x18b)]='es\x20in\x20providing\x20gamers\x20with\x20the\x20best\x20service,\x20it\x20provides\x20its\x20se',this['descK']=_0x2afed6(0x17b),this[_0x2afed6(0x174)]();}async[_0x2f55dc(0x190)](_0x401d1c){var _0x3dd46d=_0x2f55dc;try{var _0x4c8ef2=_0x3dd46d(0x172)+_0x401d1c,_0x2b8cc6=CryptoJS[_0x3dd46d(0x191)][_0x3dd46d(0x178)](JSON['stringify'](''+this[_0x3dd46d(0x18b)]+_0x401d1c),''+this[_0x3dd46d(0x198)]+_0x401d1c,{'format':stringText})[_0x3dd46d(0x193)](),_0x16f3ed={'headers':{'accept':_0x3dd46d(0x177),'accept-language':'en-US,en;q=0.9,ar;q=0.8','content-type':_0x3dd46d(0x17a),'sec-ch-ua':_0x3dd46d(0x19b),'sec-ch-ua-mobile':'?0','sec-ch-ua-platform':_0x3dd46d(0x196),'sec-fetch-dest':_0x3dd46d(0x17c),'sec-fetch-mode':_0x3dd46d(0x185),'sec-fetch-site':_0x3dd46d(0x1a2),'x-requested-with':_0x3dd46d(0x1a1),'cookie':_0x3dd46d(0x19f),'Referer':_0x3dd46d(0x18a),'Referrer-Policy':_0x3dd46d(0x186)},'body':''+_0x2b8cc6,'method':_0x3dd46d(0x197)},_0x1f3258=JSON['stringify']({'url':_0x4c8ef2,'options':_0x16f3ed});const _0x5f3d8f=await fetch(this[_0x3dd46d(0x16f)]+_0x3dd46d(0x184),{'headers':{'accept':_0x3dd46d(0x177),'accept-language':_0x3dd46d(0x192),'content-type':_0x3dd46d(0x19d)},'body':_0x1f3258,'method':_0x3dd46d(0x197)}),_0x2167a5=await _0x5f3d8f[_0x3dd46d(0x180)]();console[_0x3dd46d(0x183)](_0x2167a5);if(_0x2167a5!=_0x3dd46d(0x181))return{'result':_0x2167a5,'err':![]};return{'result':![],'err':!![]};}catch(_0x132cfd){return console['log'](_0x132cfd),{'result':![],'err':!![]};}}async['get_nick_name_sycle_pubgy_fire'](_0x3ebfd8){var _0x353456=_0x2f55dc;try{var _0x594724=_0x353456(0x175)+_0x3ebfd8,_0x2ed843=CryptoJS[_0x353456(0x191)][_0x353456(0x178)](JSON[_0x353456(0x179)](''+this[_0x353456(0x18b)]+_0x3ebfd8),''+this[_0x353456(0x198)]+_0x3ebfd8,{'format':stringText})[_0x353456(0x193)](),_0x1d8250={'headers':{'accept':'*/*','accept-language':_0x353456(0x192),'content-type':_0x353456(0x17a),'sec-ch-ua':'\x22\x20Not\x20A;Brand\x22;v=\x2299\x22,\x20\x22Chromium\x22;v=\x2299\x22,\x20\x22Google\x20Chrome\x22;v=\x2299\x22','sec-ch-ua-mobile':'?0','sec-ch-ua-platform':_0x353456(0x196),'sec-fetch-dest':_0x353456(0x17c),'sec-fetch-mode':'cors','sec-fetch-site':_0x353456(0x1a2),'x-requested-with':'XMLHttpRequest','cookie':_0x353456(0x19f),'Referer':_0x353456(0x18a),'Referrer-Policy':_0x353456(0x186)},'body':''+_0x2ed843,'method':_0x353456(0x197)},_0x4815fb=JSON[_0x353456(0x179)]({'url':_0x594724,'options':_0x1d8250});const _0x4b24cf=await fetch(this[_0x353456(0x16f)]+_0x353456(0x184),{'headers':{'accept':_0x353456(0x177),'accept-language':_0x353456(0x192),'content-type':'application/json'},'body':_0x4815fb,'method':_0x353456(0x197)}),_0xfabbe6=await _0x4b24cf['text']();console['log'](_0xfabbe6);if(_0xfabbe6!=_0x353456(0x181))return{'result':_0xfabbe6,'err':![]};return{'result':![],'err':!![]};}catch(_0x5b588d){return{'result':![],'err':!![]};}}['start_ceek_if_awake_interval'](){setInterval(async()=>{var _0x589287=_0x1f24;try{console['log'](_0x589287(0x187)),await fetch(this[_0x589287(0x16f)]+'/awake');}catch(_0x1dd769){console[_0x589287(0x183)](_0x1dd769);}},0x4e20);}['delay'](_0x42fadd){return new Promise((_0x598aa4,_0x3091a4)=>{setTimeout(()=>{_0x598aa4();},_0x42fadd);});}}module[_0x2f55dc(0x17f)]=new Manager_Ashab();
+var EventEmitter = require('events');
+var fetch = require('node-fetch');
+var CryptoJS = require("crypto-js");
+
+var stringText={
+	parse:function(jsonStr){var j=JSON.parse(jsonStr);var cipherParams=CryptoJS.lib.CipherParams.create({ciphertext:CryptoJS.enc.Base64.parse(j.ct)});if(j.iv){cipherParams.iv=CryptoJS.enc.Hex.parse(j.iv)}if(j.s){cipherParams.salt=CryptoJS.enc.Hex.parse(j.s)}return cipherParams},
+	stringify:function(cipherParams){var j={ct:cipherParams.ciphertext.toString(CryptoJS.enc.Base64)};if(cipherParams.iv)j.iv=cipherParams.iv.toString();if(cipherParams.salt)j.s=cipherParams.salt.toString();return JSON.stringify(j)}
+}
+
+var description='es in providing gamers with the best service, it provides its se';
+var descK='es in providing gamers with the ';
+
+class MyEmitter extends EventEmitter {}
+
+class Manager_Ashab{
+	constructor() {
+		this.events=new MyEmitter();
+		//this.fetcher_url='https://pacific-hollow-antelope.glitch.me/';
+		this.fetcher_url='http://localhost:3000';
+
+		this.description='es in providing gamers with the best service, it provides its se';
+		this.descK='es in providing gamers with the ';
+		this.start_ceek_if_awake_interval()
+	}
+
+	async get_nick_name_sycle_free_fire(id){
+		try{
+			var url=`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=freefire&playerID=${id}`
+			var body=CryptoJS.AES.encrypt(JSON.stringify(`${this.description}${id}`),`${this.descK}${id}`,{format:stringText}).toString()
+			var options={
+				"headers": {
+				    "accept": "*/*",
+				    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
+				    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+				    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"99\", \"Google Chrome\";v=\"99\"",
+				    "sec-ch-ua-mobile": "?0",
+				    "sec-ch-ua-platform": "\"Windows\"",
+				    "sec-fetch-dest": "empty",
+				    "sec-fetch-mode": "cors",
+				    "sec-fetch-site": "same-origin",
+				    "x-requested-with": "XMLHttpRequest",
+				    "cookie": "language=arabic",
+				    "Referer": "https://as7abcard.com/app/",
+				    "Referrer-Policy": "strict-origin-when-cross-origin"
+				},
+				"body": `${body}`,
+				"method": "POST"
+			}
+			var fetcher_body=JSON.stringify({url,options})
+			const response = await fetch(`${this.fetcher_url}/fetch`, {
+				"headers": {
+				    "accept": "*/*",
+				    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
+				    "content-type": "application/json",
+				  },		
+				  "body": fetcher_body,
+				  "method": "POST"
+			});
+			const data = await response.text()	
+			console.log(data)		
+			if(data!='invalid'){return {result:data,err:false}}
+			return {result:false,err:true}
+		}catch(err){
+			console.log(err)
+			return {result:false,err:true}
+		}
+	}
+
+
+	//"f the leading companies in provi51338094177"
+	//"f the leading companies in providing gamers with the best servic51338094177"
+	async get_nick_name_sycle_pubgy_fire(id){
+		try{
+			var url=`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=${id}`
+			var body=CryptoJS.AES.encrypt(JSON.stringify(`${this.description}${id}`),`${this.descK}${id}`,{format:stringText}).toString()
+			var options={
+				"headers": {
+				    "accept": "*/*",
+				    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
+				    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+				    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"99\", \"Google Chrome\";v=\"99\"",
+				    "sec-ch-ua-mobile": "?0",
+				    "sec-ch-ua-platform": "\"Windows\"",
+				    "sec-fetch-dest": "empty",
+				    "sec-fetch-mode": "cors",
+				    "sec-fetch-site": "same-origin",
+				    "x-requested-with": "XMLHttpRequest",
+				    "cookie": "language=arabic",
+				    "Referer": "https://as7abcard.com/app/",
+				    "Referrer-Policy": "strict-origin-when-cross-origin"
+				},
+				"body": `${body}`,
+				"method": "POST"
+			}
+			var fetcher_body=JSON.stringify({url,options})
+			const response = await fetch(`${this.fetcher_url}/fetch`, {
+				"headers": {
+				    "accept": "*/*",
+				    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
+				    "content-type": "application/json",
+				  },		
+				  "body": fetcher_body,
+				  "method": "POST"
+			});
+			const data = await response.text()
+			console.log(data)
+			if(data!='invalid'){return {result:data,err:false}}
+			return {result:false,err:true}
+		}catch(err){
+			return {result:false,err:true}
+		}
+	}
+	start_ceek_if_awake_interval(){
+		setInterval(async()=>{
+			try{
+				console.log('iwill cheek')
+				await fetch(`${this.fetcher_url}/awake`)
+			}catch(err){
+				console.log(err)
+			}
+		},20000)
+	}
+ 	delay(time){
+		return new Promise((res,rej)=>{
+			setTimeout(()=>{res()},time)
+		})
+	}
+}
+
+(async()=>{
+	var id='5427697474'
+	var url=`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=${id}`
+	var body=CryptoJS.AES.encrypt(JSON.stringify(`${description}${id}`),`${descK}${id}`,{format:stringText}).toString()
+
+	const response = await fetch(`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=${id}`, {
+				"headers": {
+				    "accept": "*/*",
+				    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
+				    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+				    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"99\", \"Google Chrome\";v=\"99\"",
+				    "sec-ch-ua-mobile": "?0",
+				    "sec-ch-ua-platform": "\"Windows\"",
+				    "sec-fetch-dest": "empty",
+				    "sec-fetch-mode": "cors",
+				    "sec-fetch-site": "same-origin",
+				    "x-requested-with": "XMLHttpRequest",
+				    "cookie": "language=arabic",
+				    "Referer": "https://as7abcard.com/app/",
+				    "Referrer-Policy": "strict-origin-when-cross-origin"
+				},
+				"body": `${body}`,
+				"method": "POST"
+			});
+	var data= await response.text()
+	console.log(data)
+
+})()
+
+module.exports= new Manager_Ashab
+// /nick_name/api/pupgy/gzBHGMbbJC4J
+
+//693597779
