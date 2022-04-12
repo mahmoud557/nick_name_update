@@ -33,7 +33,8 @@ class Fetcher{
 			try{
 				var url=req.body.url;
 				var options=req.body.options;
-				this.fetch_requste(url,options,res)
+				console.log(url,options)
+				//this.fetch_requste(url,options,res)
 			}catch(err){
 				console.log(err)
 			}
@@ -50,7 +51,6 @@ class Fetcher{
 	 		res.set('oragenal_headers',response.headers)
 	 		response.body.pipe(res)
 		}catch(err){
-			console.log(err)
 			res.set("fetcher_error",'true')
 			res.end()
 		}
