@@ -46,10 +46,11 @@ class Fetcher{
 		try{
 			console.log('iwill')
 	 		const response = await fetch(url,options);
-	 		onsole.log('down')
+	 		console.log('down')
 	 		res.set('oragenal_headers',response.headers)
 	 		response.body.pipe(res)
 		}catch(err){
+			console.log(err)
 			res.set("fetcher_error",'true')
 			res.end()
 		}
