@@ -15,12 +15,11 @@ class MyEmitter extends EventEmitter {}
 class Manager_Ashab{
 	constructor() {
 		this.events=new MyEmitter();
-		//this.fetcher_url='https://pacific-hollow-antelope.glitch.me/';
-		this.fetcher_url='http://localhost:3000';
+		this.fetcher_url='http://18.215.144.232';
 
 		this.description='es in providing gamers with the best service, it provides its se';
 		this.descK='es in providing gamers with the ';
-		this.start_ceek_if_awake_interval()
+		//this.start_ceek_if_awake_interval()
 	}
 
 	async get_nick_name_sycle_free_fire(id){
@@ -67,8 +66,6 @@ class Manager_Ashab{
 	}
 
 
-	//"f the leading companies in provi51338094177"
-	//"f the leading companies in providing gamers with the best servic51338094177"
 	async get_nick_name_sycle_pubgy_fire(id){
 		try{
 			var url=`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=${id}`
@@ -127,36 +124,7 @@ class Manager_Ashab{
 	}
 }
 
-(async()=>{
-	var id='5427697474'
-	var url=`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=${id}`
-	var body=CryptoJS.AES.encrypt(JSON.stringify(`${description}${id}`),`${descK}${id}`,{format:stringText}).toString()
 
-	const response = await fetch(`https://as7abcard.com/pubg-files/pubg.php?action=getPlayerName&game=pubg&playerID=${id}`, {
-				"headers": {
-				    "accept": "*/*",
-				    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
-				    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-				    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"99\", \"Google Chrome\";v=\"99\"",
-				    "sec-ch-ua-mobile": "?0",
-				    "sec-ch-ua-platform": "\"Windows\"",
-				    "sec-fetch-dest": "empty",
-				    "sec-fetch-mode": "cors",
-				    "sec-fetch-site": "same-origin",
-				    "x-requested-with": "XMLHttpRequest",
-				    "cookie": "language=arabic",
-				    "Referer": "https://as7abcard.com/app/",
-				    "Referrer-Policy": "strict-origin-when-cross-origin"
-				},
-				"body": `${body}`,
-				"method": "POST"
-			});
-	var data= await response.text()
-	console.log(data)
-
-})()
 
 module.exports= new Manager_Ashab
-// /nick_name/api/pupgy/gzBHGMbbJC4J
 
-//693597779
