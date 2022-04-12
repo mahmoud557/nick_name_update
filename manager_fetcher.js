@@ -34,7 +34,7 @@ class Fetcher{
 				var url=req.body.url;
 				var options=req.body.options;
 				console.log(url,options)
-				//this.fetch_requste(url,options,res)
+				this.fetch_requste(url,options,res)
 			}catch(err){
 				console.log(err)
 			}
